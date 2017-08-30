@@ -8,3 +8,5 @@ Han Chen's Xcode template
 * Storyboards
 * ViewControllers
 * Other Files
+
+Put in ~/Library/Developer/Xcode/Templates/Custom
